@@ -17,7 +17,7 @@ Similarly, the normal trees should go from 6 to 8, and, **very uncommonly** , 12
 
 For the textures the trunk of the tree should be white with light blue leaves. The planks would be light blue skyroot. Somewhat similar to thaumcraft's trees actually.
 
-![](assets/Pasted image 20251016074528.png)
+![](assets/tctree.png)
 
 Or... aether 2's
 ![](assets/2025-10-16_08.18.15.png)
@@ -26,7 +26,8 @@ Or... aether 2's
 
 This should be pretty self explanatory. This biome is supposed to be a very livable (albeit not safe) section of the aether. As such, you may expect to find more food here than usual
 
-![](assets/Pasted image 20251016075458.png)
+![](assets/berrybush.png)
+
 So yeah, I just plan on back porting the berry bushes from the newer aether versions to BWA. Should be pretty simple.
 
 as seen on the [wiki](https://aether.fandom.com/wiki/Blueberry_Bush), it should work pretty much just like it. Each blue berry heals a heart and you get 3 to 5 of them per bush.
