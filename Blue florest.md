@@ -26,8 +26,8 @@ Or... aether 2's
 
 This should be pretty self explanatory. This biome is supposed to be a very livable (albeit not safe) section of the aether. As such, you may expect to find more food here than usual
 
-| ![](assets/Pasted image 20251016075458.png) | So yeah, I just plan on back porting the berry bushes from the newer aether versions to BWA. Should be pretty simple. |
-| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+![](assets/Pasted image 20251016075458.png)
+So yeah, I just plan on back porting the berry bushes from the newer aether versions to BWA. Should be pretty simple.
 
 as seen on the [wiki](https://aether.fandom.com/wiki/Blueberry_Bush), it should work pretty much just like it. Each blue berry heals a heart and you get 3 to 5 of them per bush.
 
