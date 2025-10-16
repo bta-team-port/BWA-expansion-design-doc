@@ -9,24 +9,24 @@ The idea is to have the biome mainly look like a "rain florest" in the sky type 
 
 While the main bulk of the trees should be simple very tall oak trees, spooner trees will also generate commonly. About twice as often as golden trees in the aether plains as is right now. The max size should be 24 and the minimum should be 14 as pictured bellow.
 
-![[assets/2025-10-16_07.39.09.png]]
+![](assets/2025-10-16_07.39.09.png)
 
 Similarly, the normal trees should go from 6 to 8, and, **very uncommonly** , 12 in height. See under.
 
-![[assets/2025-10-16_07.44.04.png]]
+![](assets/2025-10-16_07.44.04.png)
 
 For the textures the trunk of the tree should be white with light blue leaves. The planks would be light blue skyroot. Somewhat similar to thaumcraft's trees actually.
 
-![[assets/Pasted image 20251016074528.png]]
+![](assets/Pasted image 20251016074528.png)
 
 Or... aether 2's
-![[assets/2025-10-16_08.18.15.png]]
+![](assets/2025-10-16_08.18.15.png)
 
 ## Berry bushes
 
 This should be pretty self explanatory. This biome is supposed to be a very livable (albeit not safe) section of the aether. As such, you may expect to find more food here than usual
 
-| ![[assets/Pasted image 20251016075458.png]] | So yeah, I just plan on back porting the berry bushes from the newer aether versions to BWA. Should be pretty simple. |
+| ![](assets/Pasted image 20251016075458.png) | So yeah, I just plan on back porting the berry bushes from the newer aether versions to BWA. Should be pretty simple. |
 | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
 
 as seen on the [wiki](https://aether.fandom.com/wiki/Blueberry_Bush), it should work pretty much just like it. Each blue berry heals a heart and you get 3 to 5 of them per bush.
@@ -35,7 +35,7 @@ as seen on the [wiki](https://aether.fandom.com/wiki/Blueberry_Bush), it should 
 
 Placed on the canopies of trees you should be able to find Moa nests, going near them usually means painful death by angry momma bird. See aether 2 reference:
 
-![[assets/2025-10-16_08.19.19.png]]
+![](assets/2025-10-16_08.19.19.png)
 
 Should be pretty simple, the nests spawn near trees and the eggs acts like a spawner. The moas it spawn will use a different AI that stays near the nest and will attack anything that gets close to it, a maximum of 3 moas can ever be present at a nest. when broken it will drop a moa egg of it's color. The spawning of defensive moas cannot be stopped unless the egg is stolen. Every moa in "defense" mode will become aggressive to the player while their inventory contains an egg of the same color as the moa.
 
